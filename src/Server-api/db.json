@@ -1,0 +1,19 @@
+{
+    "contacts":[
+        {
+            "id":"1",
+            "name":"Antonio Machado",
+            "email":"ulundoantonio@gmail.com"
+        },
+        {
+            "id":"2",
+            "name":"Antonio Machado",
+            "email":"ulundoantonio2@gmail.com"
+        },
+        {
+            "id":"3",
+            "name":"Antonio Machado",
+            "email":"ulundoantonio3@gmail.com"
+        }
+    ]
+}
